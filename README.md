@@ -6,7 +6,7 @@ A React-based web application that allows users to search, explore, and save the
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed app](https://your-deployment-link.vercel.app/)  
+👉 [Click here to view the deployed app](https://moview-explorer.netlify.app/)  
 *(Replace this with your actual Vercel or Netlify link)*
 
 ---
